@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.github.md",
+                "file": "test note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test.github"
+              "title": "test note"
             }
           }
         ]
@@ -195,7 +195,7 @@
   "active": "84a12b7d2c736d0f",
   "lastOpenFiles": [
     "New fine-grained personal access token.md",
-    "test.github.md",
+    "test note.md",
     "README.md"
   ]
 }
