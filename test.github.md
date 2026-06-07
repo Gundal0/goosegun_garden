@@ -1,3 +1,8 @@
 
----
-dg-home: t
+'''
+dg-home: true
+dg-publish: true
+'''
+
+
+
