@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test note.md",
+                "file": "src/site/notes/test note.md",
                 "mode": "source",
                 "source": false
               },
@@ -192,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a12b7d2c736d0f",
+  "active": "902562b7ef7a05a6",
   "lastOpenFiles": [
     "New fine-grained personal access token.md",
-    "test note.md",
+    "src/site/notes/test note.md",
     "README.md"
   ]
 }
